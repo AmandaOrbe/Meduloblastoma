@@ -1,12 +1,88 @@
-title: 'Gliomas de bajo grado'
+title: 'Meduloblastoma'
 presentacion: presentación
-presentacion_text1:    "En este módulo, y en los tres siguientes dedicados a los tumores del sistema nervioso central del adulto, vamos a revisar los fundamentos prácticos de aquellos tumores que pueden presentarse más frecuentemente en las consultas de oncología médica."
-presentacion_text2:    " En todos ellos, la clave está en un manejo multidisciplinar, que comprende: una primera sospecha clínica y radiológica de la enfermedad, siendo la resonancia magnética, preferentemente con estudios de difusión y perfusión asociados, la prueba complementaria más importante; una resección quirúrgica lo más amplia posible, pero que a la vez preserve de la mejor manera la funcionalidad neurológica del paciente; un análisis patológico completo, en el que ya no nos podemos conformar, tal y como se refleja en la nueva clasificación de la OMS de 2016, con aspectos puramente histológicos, sino que debemos implementar factores moleculares diagnósticos y pronósticos; y un tratamiento posterior basado en radioterapia y quimioterapia, que podrá ser concomitante o secuencial, dependiendo de cada caso concreto."
-presentacion_span: Es por ello que el manejo de estos pacientes y la toma de decisiones, es recomendable que se realicen en el contexto de un equipo multidisciplinar compuesto por neurocirujanos, neurorradiólogos, neuropatólogos, oncólogos radioterápicos y oncólogos médicos.
+presentacion_text:    "En este módulo se describirán las características clínicas, patológicas y moleculares del meduloblastoma en el adulto, y los principios del tratamiento de esta rara tumoración cerebral."
+
+
 objetivos: objetivos
-objetivos_text: Comprender los fundamentos de la epidemiología y diagnóstico clínico y radiológico, el diagnóstico patológico y molecular, el tratamiento post-quirúrgico adyuvante, el tratamiento de la enfermedad irresecable y las tendencias de investigación actuales del tratamiento a la recaída de los gliomas de bajo grado.
+objetivos_text1: Aprender sobre la nueva clasificación molecular de los meduloblastomas
+objetivos_text2: "Conocer los fundamentos del tratamiento multimodal: quirúrgico, radioterápico y quimioterápico."
+
 epidemiologia: Epidemiología  y  diagnóstico
-epidemiologia_text: "No  existen  causas  claras  exógenas  o  endógenas  para  los  gliomas  de  bajo  grado,  habiéndose  relacionado  en  la  literatura  la  exposición  crónica  a  cloruro  de  vinilo.  Clínicamente,  los  síntomas  serán  aquellos  relacionados  con:"
+epidemiologia_text1: "No  existen  causas  claras  exógenas  o  endógenas  para  los  gliomas  de  bajo  grado,  habiéndose  relacionado  en  la  literatura  la  exposición  crónica  a  cloruro  de  vinilo.  ClínicamenteLos meduloblastomas pertenecen al grupo de los tumores neuroectodérmicos primitivos. "
+epidemiologia_span1: "Son muy raros en la edad adulta "
+epidemiologia_text2: "(al contrario que en la infancia, en donde son los tumores primarios cerebrales más frecuentes) con una incidencia menor a 0.3 casos por cada 100.000 habitantes y año, y siendo la mediana de edad 25-30 años (Brandes & Franceschi, 2014). Durante un tiempo se ha creído que tienen peor pronóstico que los niños, aunque un reciente análisis epidemiológico de más de 600 meduloblastomas pediátricos y más de 300 adultos, demostró que no había diferencias (Li, Dai, Cao, & Wang, 2018)."
+epidemiologia_text3: "Se localizan en la fosa posterior (los  PNET de localización supratentorial son el neuroblastoma cerebral, pineoblastoma y estesioneuroblastoma)."
+epidemiologia_text4: "Debido a su localización, y a su rápido crecimiento (son grado IV por definición), los síntomas de hipertensión intracraneal son los más frecuentes, incluyendo dolor de cabeza, alteraciones de la marcha y coordinación de movimientos. Tienen alta tendencia a diseminar por el líquido cefalorraquídeo y, en fases muy avanzadas, pueden diseminarse fuera del sistema nervioso central. Es más frecuente encontrarlos en el adulto en los hemisferios cerebelosos en lugar de en línea media."
+epidemiologia_span2: "Pueden presentarse en pacientes con síndromes de predisposición hereditaria a cáncer, en concreto en pacientes con poliposis adenomatosa familiar por mutación en APC (sd de Turcot) (Paraf, Jothy, & Van Meir, 1997) y en paceintes con sd de Gorlin, por mutación en el gen PTCH "
+epidemiologia_text5: "(Foulkes et al., 2017)"
+epidemiologia_text6: "En el diagnóstico, debe incluirse no sólo una resonancia magnética cerebral, sino también de toda la columna (médula espinal) y una "
+epidemiologia_span3: "punción de líquido cefalorraquídeo de 2 a 3 semanas después de la cirugía para evitar falsos positivos derivados de la propia manipulación quirúrgica. "
+epidemiologia_text7: " Si no hay síntomas o signos que lo indiquen, no es necesario hacer pruebas de imagen corporal más allá de la resonancia. En la figura 1 se muestra una imagen típica de un meduloblastoma en el adulto."
+image1_title: "Figura 1: Mujer de 24 años diagnosticada de meduloblastoma desmoplásico nodular (grado IV de la OMS) que presentó una clínica de mareos, sensación de giros de objetos, inestabilidad, cefaleas y vómitos. "
+image1_text: "En la RM se identificó una masa situada en el hemisferio cerebeloso del lado derecho, con un pequeño componente de edema y que muestra una señal heterogénea pero predominantemente isointensa con respecto al córtex en secuencias T1 (A) e hipointensa en secuencias T2 (C). La tumoración era hiperintensa en FLAIR (B) y presentaba un realce heterogéneo en la imagen T1 con contraste iv (D)."
+epidemiologia_text8: "La clasificación de Chang es la más utilizada en la estadificación del meduloblastoma:"
+epidemiologia_list1: "T1: < 3 cm "
+epidemiologia_list2: "T2: > 3 cm "
+epidemiologia_list3: "T3: >3 cm con extensión al acueducto de Silvio, foramen de Magendie o agujeros de Luchska (hidrocefalia)"
+epidemiologia_list4: "T4: extensión por el acueducto de Silvio afectando al mesencéfalo y tercer ventrículo o afectación de médula cervical alta"
+epidemiologia_list5: "M0: no evidencia de metástasis subaracnoideas o hematógenas"
+epidemiologia_list6: "M1: citología en LCR positiva"
+epidemiologia_list7: "M2: nódulo demostrable en espacio subaracnoideo craneal"
+epidemiologia_list8: "M3: nódulo demostrable en espacio subaracnoideo espinal"
+epidemiologia_list9: "M4: metástasis fuera del SNC"
+epidemiologia_text9: "El valor de la T en el pronóstico es limitado, siendo más importantes para la clasificación en riesgo intermedio o alto los siguientes factores (Brandes & Franceschi, 2014):"
+epidemiologia_list10: "Tumor residual menor de 1.5 cm2 y LCR negativo: riesgo intermedio (>80 supervivencia a los 5 años)"
+epidemiologia_list11: "Tumor residual mayor de 1.5 cm2 y/o LCR positivo (u otras localizaciones M) y/o histología de células grandes/anaplásico: riesgo alto (<65% supervivencia a los 5 años)"
+
+
+diagnostico: Diagnóstico patológico y molecular
+diagnostico_text1: "Clásicamente, se han distinguido los siguientes tipos de meduloblastoma: "
+diagnostico_card1_title: Clásico
+diagnostico_card1_text: "El más frecuente (70%) caracterizado por presentarse en línea media "
+diagnostico_card2_title: Desmoplásico
+diagnostico_card2_text: "El que mejor pronóstico presenta, se localiza más frecuentemente en hemisferios cerebelosos"
+diagnostico_card3_title: Anaplásico/Célula grande
+diagnostico_card3_text: El de peor pronóstico
+figura_2_a_title: "A) Meduloblastoma clásico grado IV de la OMS. "
+figura_2_a_text: "Histologicamente se observan células de talla media, con citoplasma escaso y núcleos hipercromáticos con un pleomorfismo moderado."
+figura_2_b_title: "B) Meduloblastoma clásico grado IV de la OMS."
+figura_2_b_text: "Tinción inmunohistoquimica para sinaptofisina: Positiva. "
+diagnostico_text2: "Recientemente, se ha subclasificado a los meduloblastomas en 4 subtipos moleculares: WNT, SHH, grupo 3 (prácticamente exclusivo de niños, por ello no los discutiremos) y grupo 4."
+WNT: Subgrupo WNT (wingless activated)
+WNT_text1: "Este subgrupo es el menos frecuente en adultos, si descontamos el casi inexistente en la adultez grupo 3 (en torno al 7-10%). Suelen presentar una histología clásica, y es el que mejor pronóstico tiene, con un 90% de SG a los 5 años (Brandes & Franceschi, 2014). Molecularmente, suelen tener mutaciones en CTNNB1, inmunohistoquímica positiva para -catenina tanto nuclear como citoplasmática y monosomía del cromosoma 6 (Taylor et al., 2012). "
+subgrupo4: "Subgrupo 4 "
+subgrupo4_text: "El segundo en frecuencia en adultos, predominando en varones frente a mujeres, siendo la presencia del isocromosoma 17q lo más característico (Taylor et al., 2012), siendo su base molecular la menos conocida de todos los subgrupos. Su pronóstico es parecido al de SHH (intermedio)."
+MYC: "Papel de MYC en el pronóstico "
+MYC_text: "La amplificación de MYC es típica del grupo 3, precisamente el meduloblastoma más infrecuente (o prácticamente inexistente) en el adulto. Su amplificación conlleva un pronóstico muy malo, con más de un 50% de mortalidad (Archer et al., 2017)"
+
+
+
+tratamiento: "Tratamiento post quirúrgico adyuvante"
+tratamiento_text1: "El tratamiento de elección del meduloblastoma es la extirpación quirúrgica lo más amplia posible sin causar déficit neurológicos, seguida de radioterapia craneoespinal y quimioterapia. El abordaje puede realizarse mediante craneotomía o craniectomía suboccipital, que en el caso de tumores de línea media suele requerir la apertura del foramen magno y frecuentemente la extirpación del arco posterior de C1. "
+tratamiento_text2: "Ya se ha mencionado la importancia pronóstica del tamaño de los restos tumorales en párrafos previos. La principal limitación para la resección quirúrgica es la posibilidad de invasión o adherencia al suelo del 4º ventrículo, en cuyo caso es preferible dejar un pequeño residuo tumoral sobre el tronco que intentar una extirpación completa que afecte al tronco añadiendo grave morbilidad. La monitorización neurofisiológica de pares craneales y vías largas permite optimizar la resección, incrementando la seguridad de la intervención. "
+tratamiento_text3: "Como consecuencia de la localización en fosa posterior y la frecuente afectación del 4º ventrículo, es muy frecuente la asociación de hidrocefalia, por lo que la mayoría de los pacientes requieran algún tipo de derivación de LCR, bien transitoria en forma de drenaje ventricular externo, o de manera permanente en hasta un 30-40% de los casos (derivación ventriculoperitoneal). Se ha descrito la diseminación a la cavidad abdominal a través del shunt en un 10-20% de los casos, aunque probablemente este porcentaje está sobreestimado."
+tratamiento_text4: El principal problema al que nos enfrentamos en el meduloblastoma en el adulto es que
+tratamiento_span1: el tratamiento adyuvante no deja de ser una extrapolación del tratamiento que se usa en los niños.
+
+radioterapia: "Radioterapia"
+radioterapia_text1: "Así como en los niños, el meduloblastoma en adultos es altamente radiosensible, y este tratamiento sigue siendo básico en el control post quirúrgico. "
+radioterapia_text2: " Habitualmente, se utilizan 36-39 Gy en fracciones de 1.8Gy en el eje craneoespinal con un boost hasta 54 Gy en 10 fracciones para la fosa posterior en tumores considerados de alto riesgo; en los de riesgo estándar, la dosis recomendada al eje craneoespinal sólamente llega a 23,4Gy, también a 1,8 Gy/fracción y el boost a fosa posterior también hasta 54 Gy. Debido al potencial impacto en órganos adyacentes (por ejemplo ovarios en mujeres jóvenes), técnicas más seguras como la tomoterapia se están imponiendo en la práctica clínica (Brandes & Franceschi, 2014). La tomoterapia sería la técnica considerada de elección si se tiene disponibilidad, aunque los LINACs actuales ya pueden realizar tratamientos de VMAT (Volumetric Modulated Arc Therapy) con dosimetrías similares a las conseguidas con tomoterapia."
+image3_title: "Figura 3: Imagen de un LINAC moderno con VMAT"
+image3_text: ""
+
+quimioterapia: "Quimioterapia"
+quimioterapia_span1: "Sólo existe un ensayo clínico prospectivo en pacientes adultos con meduloblastoma"
+quimioterapia_text1: ", y es el que define en muchos centros la quimioterapia de elección peri o post radioterapia. El estudio de Brandes y colaboradores trató, antes y después de la radioterapia, a 36 pacientes con riesgo intermedio/alto con quimioterapia "
+quimioterapia_span2: "basada en cisplatino, etoposido y ciclofosfamida"
+quimioterapia_text2: "Con ste tratamiento, el riesgo a la recurrencia a casi 8 años fue de 47% (Brandes, Franceschi, Tosoni, Blatt, & Ermani, 2007)"
+
+
+tendencias: "Tratamiento a la recaída: tendencias actuales"
+tendencias_text: "Dado que en los adultos, la firma molecular predominante es la SHH, este contexto tiene un potencial atractivo para las terapias dirigidas. La primera prueba de concepto surgió durante el desarrollo del vismodegib, un inhibidor oral de la vía SHH (concretamente de la proteína SMO), aprobado para su uso en carcinoma basocelular refractario o en el que la radioterapia esté contraindicada. Un paciente, diagnosticado de un meduloblastoma metastásico tratado con múltiples líneas de tratamiento,  fue tratado con vismodegib obteniendo una respuesta clínicamente muy significativa, aunque por desgracia transitoria (Rudin et al., 2009). Desde entonces, varios casos similares han sido publicados en la literatura, y actualmente hay ensayos clínicos en marcha comparativos con quimioterapia en pacientes con meduloblastoma y recaída a tratamiento estándar."
+
+
+
+
 hipertension: Hipertensión intracraneal
 hipertension_body:  En caso de que el espacio ocupado por el glioma supere la tolerancia de presión intracraneal. Los más frecuentes son cefalea, visión borrosa y nauseas. Son síntomas muy inespecíficos y fácilmente confundibles con otros cuadros.
 focalidad: Focalidad neurológica
@@ -21,9 +97,7 @@ reseccion: Resección completa
 idh: IDH mutado y codelección 1p/19q
 criterios: En los pacientes que cumplen estos criterios, la mediana de supervivencia puede superar los 10 años, mientras que en los que tienen factores de peor pronóstico, está en torno a 4 años (Daniels et al., 2011).
 sospecha: Una vez establecida la sospecha diagnóstica, la prueba de imagen preferida es la resonancia magnética con contraste. A diferencia de los gliomas de alto grado, los gliomas de bajo grado suelen ser hipocaptantes, con imagen hipointensa en T1 e hiperintensa en T2. Clásicamente, los oligodendrogliomas pueden presentar calcificaciones en su interior y además presentar localizaciones corticales, a diferencia de los astrocitomas, más típicos de la sustancia blanca.
-image1_title: "Figura 1: Astrocitoma difuso IDH mutado grado II de la OMS diagnosticado en un varón de 51 años que sufrió una crisis epiléptica. "
-image1_text: "En la RM se identificó una lesión de bordes mal definidos, de localización periférica en el lóbulo frontal derecho, hiperintensa en secuencias FLAIR (A) y T2 (C) e hipointensa en T1 (B). La tumoración no mostraba zonas de edema, necrosis o realce tras la administración del contraste en T1 (D) que indicaran un alto grado histológico de agresividad."
-diagnostico: Diagnóstico patológico y molecular
+
 histologicamente: "Histológicamente, los gliomas de bajo grado (consideramos de aquí en adelante a los grado II) se dividían en astrocitomas difusos, oligodendrogliomas y oligoastrocitomas, siendo esta tercer entidad una denominación obsoleta. Desde el punto de vista morfológico, las diferencias fundamentales son:"
 astrocitoma: Astrocitoma
 astrocitoma_body: Se cree que la célula de la que derivan son los astrocitos, compartiendo con ellos la tinción de GFAP (útil para el diagnóstico) y a diferencia de los astrocitomas anaplásicos o los glioblastomas, la transición entre el tejido normal y el neoplásico está poco definida, la celularidad y atipia es baja.
@@ -42,7 +116,7 @@ imprescindible: Es imprescindible contar con la determinación de mutación de I
 marcadores: Estos marcadores nos darán información diagnóstica y pronóstica (la mutación de IDH y la codelección 1p19q son marcadores de mejor pronóstico). En el siguiente esquema, extraído de las guías SEOM 2017 sobre diagnóstico y tratamiento de los gliomas de bajo grado, se resume el algoritmo diagnóstico de los gliomas de bajo grado
 algoritmo_title: "Figura 3: Algoritmo diagnóstico molecular de los gliomas de bajo grado. (Sepúlveda-Sánchez et al., 2018)"
 metilacion: "El estado de la metilación del promotor de MGMT, que será discutido en los módulos de gliomas de alto grado, ha sido descrito como un factor independiente de buen pronóstico en gliomas de bajo grado, si bien sus implicaciones en el manejo terapéutico aún no están claras (Bell et al., 2018)"
-tratamiento: "Tratamiento post quirúrgico adyuvante"
+
 quirurgico: "El tratamiento quirúrgico mediante craneotomía es clave, salvo para tumores de muy buen pronóstico (ver arriba), o cuando haya contraindicaciones claras para la cirugía, en cuyo caso debe garantizarse un seguimiento estrecho para establecer el verdadero comportamiento de la lesión (un porcentaje no desdeñable puede tener un grado mayor de los esperado). "
 reseccion2: "Debe intentarse una resección completa siempre que sea posible, pero no a expensas de un déficit neurológico. La supervivencia y pronóstico mejoran cuanto mayor es el grado de resección, especialmente en el caso del oligodendroglioma. Sin embargo es muy frecuente la implicación de áreas elocuentes cerebrales en los gliomas de bajo grado, por lo que en la cirugía de estas lesiones son especialmente relevantes la monitorización neurofisiológica intraoperatoria, la cirugía con paciente despierto en el caso de tumores que involucren las áreas del lenguaje, y la neuronavegación para definir mejor los límites de la lesión. "
 tumores: "En los tumores que cumplan todos los factores de buen pronóstico (ver apartado anterior para los criterios), con cirugía completa, el seguimiento es una opción tras la intervención quirúrgica. No obstante, en casos en los que haya uno o más factores de riesgo, a saber:"
@@ -52,9 +126,6 @@ codeleccion: "Falta de codelección 1p/19q "
 mutacion: "Falta de mutación en IDH"
 completa: "Resección no completa"
 recomienda: Se recomienda tratamiento complementario post cirugía (Sepúlveda-Sánchez et al., 2018)
-radioterapia: "Radioterapia post operatoria:"
-radioterapia_span: "Si nos decidimos por radioterapia, esta debe ser tras la cirugía (demorarla a recaída conlleva menor supervivencia) y a dosis bajas (50,4-54 Gy a 1,8 Gy/fracción), dosis mayores no han demostrado ni mayor tiempo hasta progresión, ni mayor supervivencia y si mayores tasas de toxicidad, "
-radioterapia_text: " basado en los estudios INT/NCCTG (Shaw et al, 2002), EORTC 22845 y EORTC 22844."
 dosimetria: "Figura 3: Imagen de dosimetría IMRT de un glioma de bajo grado"
 quimioterapia: "Quimioterapia adyuvante"
 PCV: "PCV"

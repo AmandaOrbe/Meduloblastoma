@@ -4,6 +4,8 @@
     <i class="fas fa-plus orange"></i>
   </div>
   <div class="card__body">
-    <p><%= body  %></p>
+    <% body.each do |paragraph| %>
+      <p><%= paragraph %></p>
+    <% end %>
   </div>
 </div>
