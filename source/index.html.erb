@@ -70,7 +70,7 @@
           <p class= "indented margin5"><%= t.diagnostico_text1 %></p>
 
           <div class="card_row">
-            <%= partial(:'components/card', :locals => { :title => t.diagnostico_card1_title, :body => [t.diagnostico_card1_text] }) %>
+            <div class="orange"> <%= partial(:'components/card', :locals => { :title => t.diagnostico_card1_title, :body => [t.diagnostico_card1_text] }) %></div>
             <%= partial(:'components/card', :locals => { :title => t.diagnostico_card2_title, :body => [t.diagnostico_card2_text] }) %>
           </div><div class="card_row">
             <%= partial(:'components/card', :locals => { :title => t.diagnostico_card3_title, :body => [t.diagnostico_card3_text] }) %>
@@ -80,9 +80,18 @@
             <%= partial(:'components/image-small',  :locals => { :image => "images/meduloblastoma_clasico.png",  :title => t.figura_2_a_title, :text => t.figura_2_a_text,  :id => "IDH1"}) %>
             <%= partial(:'components/image-small',  :locals => { :image => "images/meduloblastoma_clasico2.png", :title => t.figura_2_b_title, :text => t.figura_2_b_text, :id => "gradoII"}) %>
           </div>
-          <p class= "margin7"><%= t.diagnostico_text1 %></p>
+          <p class= "margin7"><%= t.diagnostico_text2 %></p>
           <h3 class="margin7"><%= t.WNT %> </h3>
           <p class= "indented margin5"><%= t.WNT_text1 %></p>
+
+
+          <h3 class="margin7 container__highlight"><b><%= t.SHH %> </b> </h3>
+          <p class= "indented margin5">
+            <span class="container__highlight"><%= t.SHH_span %></span>
+            <%= t.SHH_text %>
+          </p>
+
+
           <h3 class="margin7"><%= t.subgrupo4 %> </h3>
           <p class= "indented margin5"><%= t.subgrupo4_text %></p>
           <h3 class="margin7"><%= t.MYC %> </h3>

@@ -8,7 +8,7 @@ objetivos_text1: Aprender sobre la nueva clasificación molecular de los medulob
 objetivos_text2: "Conocer los fundamentos del tratamiento multimodal: quirúrgico, radioterápico y quimioterápico."
 
 epidemiologia: Epidemiología  y  diagnóstico
-epidemiologia_text1: "No  existen  causas  claras  exógenas  o  endógenas  para  los  gliomas  de  bajo  grado,  habiéndose  relacionado  en  la  literatura  la  exposición  crónica  a  cloruro  de  vinilo.  ClínicamenteLos meduloblastomas pertenecen al grupo de los tumores neuroectodérmicos primitivos. "
+epidemiologia_text1: "Los meduloblastomas pertenecen al grupo de los tumores neuroectodérmicos primitivos.  "
 epidemiologia_span1: "Son muy raros en la edad adulta "
 epidemiologia_text2: "(al contrario que en la infancia, en donde son los tumores primarios cerebrales más frecuentes) con una incidencia menor a 0.3 casos por cada 100.000 habitantes y año, y siendo la mediana de edad 25-30 años (Brandes & Franceschi, 2014). Durante un tiempo se ha creído que tienen peor pronóstico que los niños, aunque un reciente análisis epidemiológico de más de 600 meduloblastomas pediátricos y más de 300 adultos, demostró que no había diferencias (Li, Dai, Cao, & Wang, 2018)."
 epidemiologia_text3: "Se localizan en la fosa posterior (los  PNET de localización supratentorial son el neuroblastoma cerebral, pineoblastoma y estesioneuroblastoma)."
@@ -17,13 +17,13 @@ epidemiologia_span2: "Pueden presentarse en pacientes con síndromes de predispo
 epidemiologia_text5: "(Foulkes et al., 2017)"
 epidemiologia_text6: "En el diagnóstico, debe incluirse no sólo una resonancia magnética cerebral, sino también de toda la columna (médula espinal) y una "
 epidemiologia_span3: "punción de líquido cefalorraquídeo de 2 a 3 semanas después de la cirugía para evitar falsos positivos derivados de la propia manipulación quirúrgica. "
-epidemiologia_text7: " Si no hay síntomas o signos que lo indiquen, no es necesario hacer pruebas de imagen corporal más allá de la resonancia. En la figura 1 se muestra una imagen típica de un meduloblastoma en el adulto."
+epidemiologia_text7: "Si no hay síntomas o signos que lo indiquen, no es necesario hacer pruebas de imagen corporal más allá de la resonancia. En la figura 1 se muestra una imagen típica de un meduloblastoma en el adulto."
 image1_title: "Figura 1: Mujer de 24 años diagnosticada de meduloblastoma desmoplásico nodular (grado IV de la OMS) que presentó una clínica de mareos, sensación de giros de objetos, inestabilidad, cefaleas y vómitos. "
 image1_text: "En la RM se identificó una masa situada en el hemisferio cerebeloso del lado derecho, con un pequeño componente de edema y que muestra una señal heterogénea pero predominantemente isointensa con respecto al córtex en secuencias T1 (A) e hipointensa en secuencias T2 (C). La tumoración era hiperintensa en FLAIR (B) y presentaba un realce heterogéneo en la imagen T1 con contraste iv (D)."
 epidemiologia_text8: "La clasificación de Chang es la más utilizada en la estadificación del meduloblastoma:"
 epidemiologia_list1: "T1: < 3 cm "
 epidemiologia_list2: "T2: > 3 cm "
-epidemiologia_list3: "T3: >3 cm con extensión al acueducto de Silvio, foramen de Magendie o agujeros de Luchska (hidrocefalia)"
+epidemiologia_list3: "T3: > 3 cm con extensión al acueducto de Silvio, foramen de Magendie o agujeros de Luchska (hidrocefalia)"
 epidemiologia_list4: "T4: extensión por el acueducto de Silvio afectando al mesencéfalo y tercer ventrículo o afectación de médula cervical alta"
 epidemiologia_list5: "M0: no evidencia de metástasis subaracnoideas o hematógenas"
 epidemiologia_list6: "M1: citología en LCR positiva"
@@ -50,6 +50,12 @@ figura_2_b_text: "Tinción inmunohistoquimica para sinaptofisina: Positiva. "
 diagnostico_text2: "Recientemente, se ha subclasificado a los meduloblastomas en 4 subtipos moleculares: WNT, SHH, grupo 3 (prácticamente exclusivo de niños, por ello no los discutiremos) y grupo 4."
 WNT: Subgrupo WNT (wingless activated)
 WNT_text1: "Este subgrupo es el menos frecuente en adultos, si descontamos el casi inexistente en la adultez grupo 3 (en torno al 7-10%). Suelen presentar una histología clásica, y es el que mejor pronóstico tiene, con un 90% de SG a los 5 años (Brandes & Franceschi, 2014). Molecularmente, suelen tener mutaciones en CTNNB1, inmunohistoquímica positiva para -catenina tanto nuclear como citoplasmática y monosomía del cromosoma 6 (Taylor et al., 2012). "
+SHH: "Subgrupo SHH (Sonic hedgehog)"
+SHH_span: "Este es el subgrupo más común en los adultos, con 70-75% de frecuencia "
+SHH_text: "(Brandes & Franceschi, 2014). Pueden tener cualquier histología, y estarían originados por alteraciones en la vía de Sonic Hedgehog (al igual que los carcinomas basocelulares, siendo la variante que debería aparecer, si ocurre, en el síndrome de Gorlin): molecularmente, pueden detectarse delecciones en 9q (en donde se encuentra PTCH). Tienen un pronóstico intermedio, con una supervivencia a los 5 años del 70% (Taylor et al., 2012), aunque en este subgrupo, si se acompaña de mutaciones en p53, el pronóstico es peor (Archer, Mahoney, & Pomeroy, 2017)"
+
+
+
 subgrupo4: "Subgrupo 4 "
 subgrupo4_text: "El segundo en frecuencia en adultos, predominando en varones frente a mujeres, siendo la presencia del isocromosoma 17q lo más característico (Taylor et al., 2012), siendo su base molecular la menos conocida de todos los subgrupos. Su pronóstico es parecido al de SHH (intermedio)."
 MYC: "Papel de MYC en el pronóstico "
@@ -74,7 +80,7 @@ quimioterapia: "Quimioterapia"
 quimioterapia_span1: "Sólo existe un ensayo clínico prospectivo en pacientes adultos con meduloblastoma"
 quimioterapia_text1: ", y es el que define en muchos centros la quimioterapia de elección peri o post radioterapia. El estudio de Brandes y colaboradores trató, antes y después de la radioterapia, a 36 pacientes con riesgo intermedio/alto con quimioterapia "
 quimioterapia_span2: "basada en cisplatino, etoposido y ciclofosfamida"
-quimioterapia_text2: "Con ste tratamiento, el riesgo a la recurrencia a casi 8 años fue de 47% (Brandes, Franceschi, Tosoni, Blatt, & Ermani, 2007)"
+quimioterapia_text2: "Con este tratamiento, el riesgo a la recurrencia a casi 8 años fue de 47% (Brandes, Franceschi, Tosoni, Blatt, & Ermani, 2007)"
 
 
 tendencias: "Tratamiento a la recaída: tendencias actuales"
