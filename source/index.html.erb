@@ -70,7 +70,7 @@
           <p class= "indented margin5"><%= t.diagnostico_text1 %></p>
 
           <div class="card_row">
-            <div class="orange"> <%= partial(:'components/card', :locals => { :title => t.diagnostico_card1_title, :body => [t.diagnostico_card1_text] }) %></div>
+            <%= partial(:'components/card', :locals => { :title => t.diagnostico_card1_title, :body => [t.diagnostico_card1_text] }) %>
             <%= partial(:'components/card', :locals => { :title => t.diagnostico_card2_title, :body => [t.diagnostico_card2_text] }) %>
           </div><div class="card_row">
             <%= partial(:'components/card', :locals => { :title => t.diagnostico_card3_title, :body => [t.diagnostico_card3_text] }) %>

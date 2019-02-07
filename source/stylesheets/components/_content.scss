@@ -65,7 +65,7 @@
     padding-right: 5rem;
      @include respond(portrait) {
       text-indent: 0rem;
-      padding-left: 3rem;
+      margin-left: 3rem;
       max-width: 28rem;
     }
      @include respond(phone) { // width < 1200
